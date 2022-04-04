@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DiscoveryService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MoviesCatalogService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MoviesInfoService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RatingsDataService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
